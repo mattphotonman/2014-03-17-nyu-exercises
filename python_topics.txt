@@ -1,0 +1,11 @@
+Pick the 5 topics from the list below in which you are most interested and include this with the line you add to survey.txt:
+
+Basics - Variables and Types, Data Structures, Flow Control, Strings and File I/O, Functions and Modules
+Data Structures - Sets, Dictionaries, collections module
+Unit Tests - How to build tests into your code
+Numpy and Scipy - These are modules that are good for linear algebra and optimization, among other things
+Matplotlib - Using python to generate plots
+Pandas - Statistical package for python
+Object Oriented Programming in Python
+Web Scraping in Python
+Anything Else You're Interested In
