@@ -1,0 +1,2 @@
+Name, E-mail, Github Username, Used Python Before (Y/N), Python Topics I'm Interested In
+Matthew Lightman, matthew.lightman@aexp.com, mattphotonman, Y, "Basics, Data Structures, Unit Tests, Numpy and Scipy, Matplotlib, Pandas"
