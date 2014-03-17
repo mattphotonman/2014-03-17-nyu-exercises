@@ -1,0 +1,7 @@
+-Write a function to count the fraction of characters in a string which are vowels.
+E.g.  frac_vowels('abcdef') = 0.3333333333333333
+      frac_vowels('Hello world!') = 0.25
+      frac_vowels('Mrmph.') = 0.0
+Bonus:  Modify your function so that non-letter characters don't count.
+E.g.  frac_vowels('Hello world!') = 0.3
+      frac_vowels('123') --> Error message

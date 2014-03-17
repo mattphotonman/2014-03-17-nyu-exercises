@@ -1,0 +1,5 @@
+Data Structures
+-Build a list containing several different types.  Go to the help menu for "list" and find an interesting method that we haven't discussed yet.  Use this method on your list and print the results.
+
+Strings and File IO
+-Create a string containing a full sentence.  Use python to count the number of words in the sentence.  Hint: Use the split method.
