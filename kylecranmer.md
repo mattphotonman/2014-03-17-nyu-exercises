@@ -1,0 +1,1 @@
+[check out my notebook](http://nbviewer.ipython.org/github/cranmer/play/blob/master/BICEP2/BICEP2_likelihood.ipynb?create=0)
